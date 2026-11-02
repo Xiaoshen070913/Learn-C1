@@ -56,8 +56,7 @@ int main ()
     } 
     for ( k=a; k<=a+3; k++) {
         printf("%d",k);
-    } 
-    
+    }
     if (i!=j) {
         if (j!=k) {
             if (i!=k) {
